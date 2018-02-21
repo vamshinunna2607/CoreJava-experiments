@@ -1,0 +1,63 @@
+Brathwaite
+Carlos
+Leinster Cricket Club
+Phil Simmons
+20.0
+19
+Bob Bond
+Kohli
+Virat
+Royal Challengers Bangalore
+Daniel Vettori
+111.1
+28
+Vijay Mallya
+Dhoni
+Mahendra Singh
+Rising Pune Supergiants
+Stephen Fleming
+215.4
+24
+Sanjiv Goenka, Raghu Iyer
+Brathwaite
+Carlos
+Delhi Daredevils
+Paddy Upton
+20.2
+19
+Grandhi Mallikarjuna Rao
+Gayle
+Chris
+Royal Challengers Bangalore
+Daniel Vettori
+111.2
+28
+Vijay Mallya
+Afridi
+Shahid
+Peshawar Zalmi
+Mohammad Akram
+10.2
+20
+Javed Afridi
+Gayle
+Chris
+Dhaka Gladiators
+Ian Pont
+11.6
+21
+Salim Chowdhury
+Afridi
+Shahid
+Deccan Chargers
+Darren Lehman
+90.8
+28
+SUN TV
+Gayle
+Chris
+Melbourne Renegades
+Simon Helmot
+91.2
+22
+Melbourne Cricket Association
